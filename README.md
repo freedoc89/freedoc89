@@ -1,9 +1,9 @@
 <h1 align="center"> Hi there 👋</h1>
 
-🎓 Full Stack Developer in Making...
+<h2 align="center">🎓 Full Stack Developer in Making...</h2>
 
 
- ## 🧰Languages and Tools:
+ ## 🧰 Languages and Tools:
 <table align="center">
   <tr>
     <td style="border: none;"><img src="https://github.com/user-attachments/assets/0f28372f-584b-4e44-a462-913b2cdcdccf" width="100px" /></td>
